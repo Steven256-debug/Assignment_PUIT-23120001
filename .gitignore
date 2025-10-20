@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python cache / packaging
+*.egg-info/
+dist/
+build/
+
+# Large data files (uncomment if you don't want to share the dataset)
+# california_housing_regression/data/

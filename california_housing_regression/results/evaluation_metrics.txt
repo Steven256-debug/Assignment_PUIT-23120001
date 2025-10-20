@@ -1,0 +1,6 @@
+Mean Squared Error: 0.4388
+Root Mean Squared Error: 0.6624
+Mean Absolute Error: 0.4823
+R-squared: 0.6682
+
+Cross-validation mean score: 0.6742
